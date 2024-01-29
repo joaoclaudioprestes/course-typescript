@@ -4,6 +4,7 @@ let profission = "Developer";
 let age = 19;
 let graduation = "Ciência da Computação";
 let studying: boolean = true;
+let email: any = "joaoprestes17@outlook.com"; // do not always use - Não usar sempre 
 
 
 console.log(typeof profission);
